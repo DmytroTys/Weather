@@ -10,8 +10,11 @@
 * How to use Core Location to get GPS data
 
 # Screenshots 
+## First image
 ![imgonline-com-ua-Resize-OldiWeqFdePIz](https://user-images.githubusercontent.com/81646722/113154990-dbe56580-9238-11eb-9879-d21737fafd04.jpg)
+## Second image
 ![imgonline-com-ua-Resize-Ae2zkojBp6](https://user-images.githubusercontent.com/81646722/113155039-e69ffa80-9238-11eb-8bbe-ef2628fbcc3c.jpg)
+## Third image
 ![imgonline-com-ua-Resize-gSXFJymnifUPRNP](https://user-images.githubusercontent.com/81646722/113155061-ec95db80-9238-11eb-8751-88a83a4b26a7.jpg)
 
 
